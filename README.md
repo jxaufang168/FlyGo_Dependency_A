@@ -5,7 +5,7 @@ FlyGo_Dependency_A
 
 1、右键`New` -> 选择`Project...`
 
-![创建父项目 步骤1](https://www.flygo520.com/uploads/maven/images/m_29b83fe3f04034389ddc6b78293e9d58_r.png#size=360x0 =360)
+![创建父项目 步骤1](https://www.flygo520.com/uploads/maven/images/m_29b83fe3f04034389ddc6b78293e9d58_r.png#size=360x0)
 
 2、选择 `Maven Project` -> 选择 `下一步`
 
