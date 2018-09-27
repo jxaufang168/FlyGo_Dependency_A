@@ -1,5 +1,5 @@
 # FlyGo_Dependency_A
-FlyGo_Dependency_A
+文档地址：https://www.flygo520.com/docs/maven/maven-1alv38qqer46v
 
 # 创建Maven父项目
 
